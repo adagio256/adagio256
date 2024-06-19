@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![adagio256's github stats](https://github-readme-stats-zeta-livid.vercel.app/api?username=adagio256&show_icons=true&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-zeta-livid.vercel.app/api/top-langs/?username=adagio256&layout=compact&show_icons=true&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
